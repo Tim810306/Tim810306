@@ -15,7 +15,7 @@
 
 Hi, I'm [Tim Cheng!](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack Web Developer 🚀 from Taiwan.
 
-  <img align="right" alt="GIF" src="https://github.com/Tim810306/Tim810306/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Tim810306/Tim810306/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
