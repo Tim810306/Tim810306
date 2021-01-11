@@ -9,7 +9,7 @@
   <img align="left" alt="Tim Cheng's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=tim810306.tim810306)
 
 <br />
 
@@ -51,11 +51,11 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/tim810306" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  6,822 Karma Points           
+<!-- TODO-IST:START -->          
 🌸  Completed 0 tasks today           
 ✅  Completed 519 tasks so far           
 ⏳  Longest streak is 10 days
+🏆   
 <!-- TODO-IST:END -->
 
 
