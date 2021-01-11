@@ -1,11 +1,11 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/XTW52Kt">
+<a href="">
   <img align="left" alt="Tim Cheng's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="">
   <img align="left" alt="Tim Cheng's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="">
   <img align="left" alt="Tim Cheng's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
@@ -15,15 +15,15 @@
 
 Hi, I'm [Tim Cheng!](https://blog.abhisheknaidu.tech/), a passionate self-taught Full Stack Web Developer 🚀 from Taiwan.
 
-  <img align="right" alt="GIF" src="https://github.com/Tim810306/Tim810306/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Tim810306/Tim810306/blob/main/code.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Typescript; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@timcheng](https://twitter.com/abhisheknaiidu);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 📫 How to reach me: [@timcheng]();
+- 📝[Resume]()
 
 **Languages and Tools:**  
 
